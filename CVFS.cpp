@@ -682,8 +682,8 @@ void CloseAllFile()
 //	Input			: 	Integer, Integer, Integer
 //	Output			: 	Integer
 //	Description 	: 	Write Data Into The File From Perticular Position
-//	Author			: 	Prasad Dangare
-//	Date			:	28 June 2021
+//	Author			:       Aditi Joshi
+//	Date			:	11 July 2023
 //
 //######################################################################################
 
@@ -748,8 +748,8 @@ int LseekFile(int fd, int size, int from)
 //	Input			: 	None
 //	Output			: 	None
 //	Description 	: 	List Out All Existing Files Name
-//	Author			: 	Prasad Dangare
-//	Date			:	28 June 2021
+//	Author			: 	Aditi Joshi
+//	Date			:	11 July 2023
 //
 //######################################################################################
 
