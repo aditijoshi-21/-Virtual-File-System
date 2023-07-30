@@ -43,17 +43,17 @@ System Programming Using C.
 #
 
 ```
-1) In This Project I Emulate All Data Structures Which Are Used By Operating System To Manage File System Oriented Tasks.
+1) In this project I emulate all data structures which are used by operating system to manage file system oriented asks.
 
-2) As The Name Suggests Its Virtual Because I Maintain All The Records In Primary Storage (RAM).
+2) As the name suggests its virtual because I maintain all the records in primary storage (RAM).
 
-3) In This Project I Create All Data Structures Which Required For File Subsystems As : FT, UAREA, UFDT, SB, DILB, DB etc.
+3) In this project I create all data structures which required for file subsystems as : FT, UAREA, UFDT, SB, DILB, DB etc.
 
-4) I Provide All Implementations Of Necessary System Calls And Commands Of File subsystem As : Open, Close, Read, Write, Lseek, Create, RM, LS, Stat, Fstat etc.
+4) I provide all implementations of necessary system calls and commands of file subsystem as : Open, Close, Read, Write, Lseek, Create, RM, LS, Stat, Fstat etc.
 
-5) While Creating This Project All Above Functionality I Use Our Own Data Structures By Referring Algorithms of UNIX Operating System.
+5) While creating this project all above functionality I use our own data dtructures by referring algorithms of UNIX Operating System.
 
-6) By Using This Project I Can Get Overview Of UFS (UNIX File System) On Any Platform.
+6) By using this project I can get overview of UFS (UNIX File System) on any platform.
 ```
 
 #
