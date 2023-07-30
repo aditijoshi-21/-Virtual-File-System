@@ -68,8 +68,8 @@ System Programming Using C.
 
 #
 
-![](https://github.com/PRASAD-DANGARE/Virtual_File_System/blob/main/VFS.png)
+![](CVFS1.png)
 
 #
 
-![](https://github.com/PRASAD-DANGARE/Virtual_File_System/blob/main/VFS2.png)
+![](CVFS2.png)
